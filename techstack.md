@@ -44,7 +44,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ammaralnajim/dvna](https://github.com/ammaralnajim/dvna)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|25<br/>Tools used|12/20/23 <br/>Report generated|
+|26<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -199,9 +199,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (10)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (11)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (10)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (11)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -215,6 +215,7 @@ Full tech stack [here](/techstack.md)
 |[morgan](https://www.npmjs.com/morgan)|v1.9.0|11/14/17|sns |MIT|[CVE-2019-5413](https://github.com/advisories/GHSA-gwg9-rgvj-4h5j) (Critical)|
 |[mysql2](https://www.npmjs.com/mysql2)|v1.4.2|11/14/17|sns |MIT|N/A|
 |[passport-local](https://www.npmjs.com/passport-local)|v1.0.0|11/14/17|sns |MIT|N/A|
+|[winston](https://www.npmjs.com/winston)|v3.0.0|08/20/18|sns |MIT|N/A|
 
 <br/>
 <div align='center'>
