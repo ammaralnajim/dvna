@@ -2,11 +2,11 @@ repo_name: ammaralnajim/dvna
 report_id: e17966bb5147e6b6d24ad7bba7e77bb5
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-20T18:34:34+00:00'
+timestamp: '2024-01-05T08:19:29+00:00'
 requested_by: ammaralnajim
 provider: github
 branch: master
-detected_tools_count: 25
+detected_tools_count: 26
 tools:
 - name: EJS
   description: An Embedded JavaScript templating Language
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/ammaralnajim/dvna/blob/master/package.json
   detection_source: package.json
   last_updated_by: sns
   last_updated_on: 2017-11-14 04:48:40.000000000 Z
@@ -29,6 +30,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ammaralnajim/dvna
   detection_source: Repo Metadata
 - name: ExpressJS
   description: Sinatra inspired web development framework for node.js -- insanely
@@ -67,6 +69,7 @@ tools:
   category: Data Stores
   sub_category: SQL Database as a Service
   image_url: https://img.stackshare.io/service/21275/default_078eb0ae2b56280a937ed073a3ba4332291f9ba8.png
+  detection_source_url: https://github.com/ammaralnajim/dvna/blob/master/docker-compose.yml
   detection_source: docker-compose.yml
   last_updated_by: Subash
   last_updated_on: 2017-11-23 04:43:59.000000000 Z
@@ -106,6 +109,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/ammaralnajim/dvna
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -115,6 +119,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ammaralnajim/dvna
   detection_source: Repo Metadata
 - name: npm
   description: The package manager for JavaScript.
@@ -124,6 +129,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ammaralnajim/dvna/blob/master/package.json
   detection_source: package.json
   last_updated_by: sns
   last_updated_on: 2017-11-14 04:48:40.000000000 Z
@@ -136,6 +142,7 @@ tools:
   category: Application Hosting
   sub_category: Platform as a Service
   image_url: https://img.stackshare.io/service/139/s01TMTGn.png
+  detection_source_url: https://github.com/ammaralnajim/dvna/blob/master/docker-compose.yml
   detection_source: docker-compose.yml
   last_updated_by: sns
   last_updated_on: 2017-11-14 04:48:40.000000000 Z
@@ -146,6 +153,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/4437/RVi2fcab_normal.jpg
+  detection_source_url: https://github.com/ammaralnajim/dvna/blob/master/package.json
   detection_source: package.json
   last_updated_by: sns
   last_updated_on: 2017-11-14 04:48:40.000000000 Z
@@ -158,6 +166,7 @@ tools:
   category: Application Utilities
   sub_category: User Management and Authentication
   image_url: https://ucarecdn.com/8f3cac0e-b146-4f0f-878c-680a6671d804/
+  detection_source_url: https://github.com/ammaralnajim/dvna/blob/master/package.json
   detection_source: package.json
   last_updated_by: sns
   last_updated_on: 2017-11-14 04:48:40.000000000 Z
@@ -170,6 +179,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ammaralnajim/dvna
   detection_source: Repo Metadata
 - name: Winston
   description: a multi-transport async logging library for node.js
@@ -177,6 +187,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/6668/9682013.png
+  detection_source_url: https://github.com/ammaralnajim/dvna/blob/master/package.json
   detection_source: package.json
   last_updated_by: sns
   last_updated_on: 2018-08-20 18:02:46.000000000 Z
@@ -368,3 +379,17 @@ tools:
   detection_source: package.json
   last_updated_by: sns
   last_updated_on: 2017-11-14 04:48:40.000000000 Z
+- name: winston
+  description: A logger for just about everything
+  package_url: https://www.npmjs.com/winston
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16003/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/ammaralnajim/dvna/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: sns
+  last_updated_on: 2018-08-20 18:02:46.000000000 Z
